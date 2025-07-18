@@ -42,3 +42,8 @@ $ Union-based integration of SymTuner+FeatMaker+RAM achieved X,XXX coverage.
 $ Sequence-based integration of SymTuner+FeatMaker+RAM achieved X,XXX coverage.
 $ SymChestra-based integration of SymTuner+FeatMaker+RAM achieved X,XXX coverage.
 ```
+
+Moreover, you can check the test cases triggering bugs as following directory:
+```bash
+/root/symchestra/symchestra_experiments/symchestra_sqlite/sqlite/found_bugs.txt
+```
